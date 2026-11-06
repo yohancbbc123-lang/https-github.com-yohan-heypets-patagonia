@@ -1,0 +1,9 @@
+{
+  "name": "heypets-patagonia",
+  "version": "1.0.0",
+  "private": true,
+  "description": "HeyPets Patagonia - Cuidado confiable para tu mascota",
+  "dependencies": {
+    "@neondatabase/serverless": "^0.10.4"
+  }
+}
